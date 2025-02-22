@@ -43,7 +43,7 @@ I build **scalable**, **maintainable**, and revenue-driven **iOS** solutions tha
 
 ## 💼 Portfolio  
 Check out my portfolio and recent projects here:  
-🔗 [enjehutasoit.com](enjelhutasoit.com/p/portfolio.html)
+🔗 [enjelhutasoit.com](https://www.enjelhutasoit.com/p/portfolio.html)
 
 ---
 
