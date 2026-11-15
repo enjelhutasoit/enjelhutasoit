@@ -29,8 +29,3 @@ Independent engineering projects focused on security, reliability, modular archi
 | 🎨 [**VaneKit**](https://github.com/enjelhutasoit/VaneKit) | Design System | Reusable SwiftUI components, semantic design tokens, and accessibility | SPM · Snapshot Tests · DocC |
 | 📊 [**Ronalytic**](https://github.com/enjelhutasoit-com/ronalytic-sdk) | Analytics | Event tracking with persistent queues, retries, consent controls, and pluggable destinations | Swift Concurrency · Modular SDK · CI |
 
----
-
-### 🔗 Connect
-
-[Email](mailto:contact@enjelhutasoit.com) · [LinkedIn](https://www.linkedin.com/in/enjelhutasoit) · [Engineering Blog](https://www.enjelhutasoit.com/search/label/Software%20Engineering)
