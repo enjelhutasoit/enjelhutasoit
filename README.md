@@ -23,7 +23,7 @@ Independent engineering projects focused on security, reliability, modular archi
 
 | Repository | Domain | What it demonstrates | Engineering |
 |---|---|---|---|
-| 🛡️ [**BiometricSession**](https://github.com/enjelhutasoit-com/biometric-session-sdk) | Security / Banking | Biometric authentication, Keychain secrets, session locking, and step-up authentication | Modular SDK · Threat Modeling · Test Fakes |
+| 🛡️ [**BiometricSession**](https://github.com/enjelhutasoit/biometric-session-sdk) | Security / Banking | Biometric authentication, Keychain secrets, session locking, and step-up authentication | Modular SDK · Threat Modeling · Test Fakes |
 | 💳 [**LocalFintechOCR**](https://github.com/enjelhutasoit/LocalFintechOCR) | Fintech | 100% on-device payment card OCR with masked output and card validation | Swift 6 · Privacy · CI Audits |
 | 🏥 [**Sehat iOS**](https://github.com/enjelhutasoit/sehat-ios) | Healthtech | Offline-first telehealth reference app using synthetic data *(in progress)* | MVVM-C · Clean Architecture · SwiftData · CI |
 | 🎨 [**VaneKit**](https://github.com/enjelhutasoit/VaneKit) | Design System | Reusable SwiftUI components, semantic design tokens, and accessibility | SPM · Snapshot Tests · DocC |
